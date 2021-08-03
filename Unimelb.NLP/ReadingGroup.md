@@ -22,8 +22,7 @@ Q: Any strategy for the interection betweeen statement and the table?
 
 Lea: Edge labelled KG 
 more weights to the headers 
-
-Chunhua: 
+ 
 
 ## biaoyan 
 Following zenan's presentation, I will share my current study on:
@@ -58,6 +57,9 @@ haonan:
 the KG is too small, smaller size kg embeddings
 
 
-
+## summary Chunhua
+zenan's speech hierarchy is pretty clear. 
+Model figure, how model work, problems, my thougts. 
+Biaoyan presents more details: problem definition, previous work (detailed model), own model, experimental results, questions
 
 
