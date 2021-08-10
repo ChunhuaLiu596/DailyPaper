@@ -63,3 +63,37 @@ Model figure, how model work, problems, my thougts.
 Biaoyan presents more details: problem definition, previous work (detailed model), own model, experimental results, questions
 
 
+# 210809 
+## Takashi Wada 
+
+Hi all, tomorrow I’ll share my thoughts and ideas on my research (**Paraphrasing Multiword Expression/Lexical Substitution**)
+
+![image](https://user-images.githubusercontent.com/68045327/128793818-5a632600-aeb3-4d88-9994-4822a842237e.png)
+
+
+## Chunhua 
+1. research topic: generate synonyms for rare/ multi-token words
+evaluattion: compare neighbours 
+
+2. Detailed case study and analysis -> limitations/problems -> solutions 
+
+MWE 
+
+### Discussion
+Jeyhan: combing the mask and non-mask token embeddings 
+1. looking at the  shapre of cosine similarity (one word to multiple other words)
+2. Kick the bucket 
+
+## ACL papers 
+
+Tim's favorite papers:
+1. ACL best: dancebyte 
+2. ACL outstanding MT: active learning, outlier, cannot beat baseline , yejin choi 
+3. MT: Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering
+Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei and Christopher Manning
+4. unreliable metrics 
+
+
+
+
+
