@@ -96,4 +96,38 @@ Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei and Christopher Manning
 
 
 
+# 2021.08.17 - Lin Tian
+rumour detection 
+
+how to utilise user information?
+how to get any user 
+
+![image](https://user-images.githubusercontent.com/68045327/129648211-f398316c-c905-4c44-be37-aa68a9ebe2b6.png)
+
+## Jey Han
+user following dirction: following/ followed relations / mutual 
+
+
+Tim: what would be the semantic differences between 
+what source of 
+what kind of rumour tree 
+
+would underlying shared interests be more 
+
+Weights of diferent edges between two users: number of mentions, number of retweets. 
+I wonder how easy it is to? 
+You know, I agree with that example. But I come up with a flip example. 
+
+
+
+# 2021.08.17 - Xudong 
+
+How do you set up random seeds? 
+Giving a certain num
+
+Jayhan: correct way is to run multiple times report the average and variance 
+random seeds influences: 1. bert classifer 2. data order 
+
+
+
 
