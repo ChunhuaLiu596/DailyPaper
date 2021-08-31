@@ -131,3 +131,15 @@ random seeds influences: 1. bert classifer 2. data order
 
 
 
+# 2108.31- Aili and Simon Suster
+
+
+
+![image](https://user-images.githubusercontent.com/68045327/131428902-19117469-3803-467a-b06c-45297c38a265.png)
+
+
+
+
+
+
+
