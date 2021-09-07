@@ -139,7 +139,16 @@ random seeds influences: 1. bert classifer 2. data order
 
 
 
+# 210907 Kemal and John 
+Posy notes from kemal (very structured) 
+1. Problem set up (imagine what's the scenario), 
+2. What's the idea and what's potential limitations? 
+3. Math mind: Using math formulas as daily notes, which could be more helpful for clarification. 
+4. Not nervous when he was not knowing the answer for a question. Just say I couldn't remember exactly. 
+5. Reactions to messy. 
 
 
+John: communication cost
+I am a little bit lost about the problem definition 
 
 
